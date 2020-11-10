@@ -1,0 +1,9 @@
+Diamond,8
+Club,4
+Diamond,1
+Heart,4
+Spade,10
+Club,3
+Diamond,6
+Club,7
+Spade,2
